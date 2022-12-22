@@ -1,1 +1,1 @@
-# Tiurin_Python
+Техническое задание для Aston
